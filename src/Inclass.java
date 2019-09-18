@@ -11,7 +11,7 @@ public static void main(String[] args)throws IOException{
 fname=inp.nextLine();
 PrintWriter outfile= new PrintWriter(fname);
 
-//Ask user for how many numbers to be in the file
+
 int N;
     System.out.println("Enter how many number of data you want in the file:: ");
     N=inp.nextInt();
